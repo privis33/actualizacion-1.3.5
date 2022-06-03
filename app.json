@@ -1,0 +1,14 @@
+﻿{
+  "name": "UwUPro",
+  "description": "UwUPro es un bot simple,facil y rapido, destinado a la descarga y subida de contenido gratis.",
+  "env": {
+    "administrador": {
+      "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
+      "value": ""
+    },
+    "bot_token": {
+      "description": "El token del bot",
+      "value": ""
+    }
+  }
+}
